@@ -92,9 +92,27 @@ const boats = [
 
             boatInfo.lastPositionReceived = lastPositionReceived;
 
+            // Récupération de la direction et de la vitesse
+            const directionVitesse = await page.evaluate(() => {
+                const directionVitesseElem = document.querySelector('#spv0');  // Récupère "268.7° / 18.2 kn"
+                return directionVitesseElem ? directionVitesseElem.textContent.trim() : "N/A";
+            });
+
+            // Séparation de la direction et de la vitesse
+            if (directionVitesse !== "N/A") {
+                const [direction, vitesse] = directionVitesse.split(' / ');
+                boatInfo.direction = direction.trim();  // "268.7°"
+                boatInfo.speed = vitesse.trim();        // "18.2 kn"
+            } else {
+                boatInfo.direction = "N/A";
+                boatInfo.speed = "N/A";
+            }
+
         } catch (error) {
             console.error(`Erreur lors de la récupération des détails pour ${boat.name} (MMSI: ${boat.mmsi}):`, error);
             boatInfo.lastPositionReceived = "N/A";
+            boatInfo.direction = "N/A";
+            boatInfo.speed = "N/A";
         }
 
         boatsData.push(boatInfo);
