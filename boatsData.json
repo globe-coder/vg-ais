@@ -4,7 +4,7 @@
     "mmsi": "228161080",
     "latitude": "46.28421",
     "longitude": "-2.65848",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "20 hours ago",
     "direction": "211.2°",
     "speed": "10.2 kn"
   },
@@ -13,7 +13,7 @@
     "mmsi": "227396550",
     "latitude": "45.59338",
     "longitude": "-3.58689",
-    "lastPositionReceived": "10 hours ago",
+    "lastPositionReceived": "14 hours ago",
     "direction": "270.2°",
     "speed": "6.0 kn"
   },
@@ -22,25 +22,25 @@
     "mmsi": "228165920",
     "latitude": "45.70054",
     "longitude": "-3.02256",
-    "lastPositionReceived": "11 hours ago",
+    "lastPositionReceived": "15 hours ago",
     "direction": "279.2°",
     "speed": "11.7 kn"
   },
   {
     "name": "Yannick BESTAVEN (Maître CoQ V)",
     "mmsi": "228135630",
-    "latitude": "44.98552",
-    "longitude": "-4.54578",
-    "lastPositionReceived": "6 hours ago",
-    "direction": "292.2°",
-    "speed": "16.1 kn"
+    "latitude": "43.79715",
+    "longitude": "-7.26894",
+    "lastPositionReceived": "5 min ago",
+    "direction": "234°",
+    "speed": "5.5 kn"
   },
   {
     "name": "Jérémie BEYOU (Charal)",
     "mmsi": "228120110",
     "latitude": "44.91419",
     "longitude": "-4.01538",
-    "lastPositionReceived": "6 hours ago",
+    "lastPositionReceived": "10 hours ago",
     "direction": "283.2°",
     "speed": "21.2 kn"
   },
@@ -49,25 +49,25 @@
     "mmsi": "228351700",
     "latitude": "46.14406",
     "longitude": "-2.59463",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "19 hours ago",
     "direction": "202.8°",
     "speed": "10.7 kn"
   },
   {
     "name": "Louis BURTON (Bureau Vallée)",
     "mmsi": "227970220",
-    "latitude": "45.43447",
-    "longitude": "-2.86082",
-    "lastPositionReceived": "11 hours ago",
-    "direction": "275.4°",
-    "speed": "12.4 kn"
+    "latitude": "44.15176",
+    "longitude": "-7.05286",
+    "lastPositionReceived": "1 min ago",
+    "direction": "297°",
+    "speed": "17.7 kn"
   },
   {
     "name": "Conrad COLMAN (MS Amlin)",
     "mmsi": "228279600",
     "latitude": "45.35146",
     "longitude": "-3.88045",
-    "lastPositionReceived": "8 hours ago",
+    "lastPositionReceived": "12 hours ago",
     "direction": "187.5°",
     "speed": "11.1 kn"
   },
@@ -76,7 +76,7 @@
     "mmsi": "227977350",
     "latitude": "45.71716",
     "longitude": "-3.68094",
-    "lastPositionReceived": "8 hours ago",
+    "lastPositionReceived": "12 hours ago",
     "direction": "270.3°",
     "speed": "10.6 kn"
   },
@@ -85,7 +85,7 @@
     "mmsi": "228264900",
     "latitude": "45.66272",
     "longitude": "-2.71803",
-    "lastPositionReceived": "12 hours ago",
+    "lastPositionReceived": "16 hours ago",
     "direction": "203.6°",
     "speed": "5.3 kn"
   },
@@ -94,25 +94,25 @@
     "mmsi": "256003485",
     "latitude": "44.96814",
     "longitude": "-4.51761",
-    "lastPositionReceived": "5 hours ago",
+    "lastPositionReceived": "9 hours ago",
     "direction": "268.7°",
     "speed": "18.2 kn"
   },
   {
     "name": "Charlie DALIN (MACIF Santé Prévoyance)",
     "mmsi": "228177430",
-    "latitude": "45.39090",
-    "longitude": "-3.92680",
-    "lastPositionReceived": "9 hours ago",
-    "direction": "200.9°",
-    "speed": "17.3 kn"
+    "latitude": "43.84902",
+    "longitude": "-8.23141",
+    "lastPositionReceived": "0 min ago",
+    "direction": "286°",
+    "speed": "23.4 kn"
   },
   {
     "name": "Samantha DAVIES (Initiatives-Cœur)",
     "mmsi": "228115260",
     "latitude": "46.08906",
     "longitude": "-2.72371",
-    "lastPositionReceived": "14 hours ago",
+    "lastPositionReceived": "18 hours ago",
     "direction": "186.2°",
     "speed": "17.7 kn"
   },
@@ -121,7 +121,7 @@
     "mmsi": "228269600",
     "latitude": "45.37098",
     "longitude": "-3.69004",
-    "lastPositionReceived": "9 hours ago",
+    "lastPositionReceived": "13 hours ago",
     "direction": "202.3°",
     "speed": "11.5 kn"
   },
@@ -130,7 +130,7 @@
     "mmsi": "228254800",
     "latitude": "45.33926",
     "longitude": "-3.88362",
-    "lastPositionReceived": "8 hours ago",
+    "lastPositionReceived": "12 hours ago",
     "direction": "204.5°",
     "speed": "11.0 kn"
   },
@@ -139,34 +139,34 @@
     "mmsi": "228101590",
     "latitude": "45.27428",
     "longitude": "-3.36073",
-    "lastPositionReceived": "8 hours ago",
+    "lastPositionReceived": "12 hours ago",
     "direction": "259.5°",
     "speed": "14.4 kn"
   },
   {
     "name": "Benjamin FERRÉ (Monnoyeur - Duo for a Job)",
     "mmsi": "228014600",
-    "latitude": "45.42435",
-    "longitude": "-3.77398",
-    "lastPositionReceived": "9 hours ago",
-    "direction": "196.2°",
-    "speed": "13.4 kn"
+    "latitude": "44.34992",
+    "longitude": "-6.90982",
+    "lastPositionReceived": "2 min ago",
+    "direction": "212°",
+    "speed": "19.0 kn"
   },
   {
     "name": "Sam GOODCHILD (VULNERABLE)",
     "mmsi": "227957240",
-    "latitude": "44.92693",
-    "longitude": "-4.14017",
-    "lastPositionReceived": "7 hours ago",
-    "direction": "277.2°",
-    "speed": "14.5 kn"
+    "latitude": "43.84694",
+    "longitude": "-7.51942",
+    "lastPositionReceived": "2 min ago",
+    "direction": "299°",
+    "speed": "20.5 kn"
   },
   {
     "name": "Pip HARE (Medallia)",
     "mmsi": "232037434",
     "latitude": "46.26634",
     "longitude": "-2.57150",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "20 hours ago",
     "direction": "195.6°",
     "speed": "9.5 kn"
   },
@@ -175,7 +175,7 @@
     "mmsi": "228275600",
     "latitude": "45.55610",
     "longitude": "-2.94254",
-    "lastPositionReceived": "11 hours ago",
+    "lastPositionReceived": "15 hours ago",
     "direction": "259.7°",
     "speed": "9.6 kn"
   },
@@ -184,7 +184,7 @@
     "mmsi": "228131430",
     "latitude": "45.25956",
     "longitude": "-3.96584",
-    "lastPositionReceived": "5 hours ago",
+    "lastPositionReceived": "9 hours ago",
     "direction": "258°",
     "speed": "23.4 kn"
   },
@@ -193,25 +193,25 @@
     "mmsi": "228278600",
     "latitude": "46.23955",
     "longitude": "-2.38794",
-    "lastPositionReceived": "17 hours ago",
+    "lastPositionReceived": "21 hours ago",
     "direction": "188.6°",
     "speed": "11.2 kn"
   },
   {
     "name": "Jean LE CAM (Tout commence en Finistère - Armor-lux)",
     "mmsi": "228194260",
-    "latitude": "45.02307",
-    "longitude": "-3.97827",
-    "lastPositionReceived": "7 hours ago",
-    "direction": "205°",
-    "speed": "15.0 kn"
+    "latitude": "44.38365",
+    "longitude": "-7.01094",
+    "lastPositionReceived": "1 min ago",
+    "direction": "224°",
+    "speed": "13.7 kn"
   },
   {
     "name": "Tanguy LE TURQUAIS (Lazare)",
     "mmsi": "228295700",
     "latitude": "46.23811",
     "longitude": "-2.43945",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "20 hours ago",
     "direction": "205.5°",
     "speed": "9.2 kn"
   },
@@ -220,7 +220,7 @@
     "mmsi": "228125560",
     "latitude": "45.27847",
     "longitude": "-3.76601",
-    "lastPositionReceived": "8 hours ago",
+    "lastPositionReceived": "12 hours ago",
     "direction": "191.7°",
     "speed": "14.4 kn"
   },
@@ -229,7 +229,7 @@
     "mmsi": "228016900",
     "latitude": "46.35537",
     "longitude": "-2.76159",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "20 hours ago",
     "direction": "204°",
     "speed": "11.7 kn"
   },
@@ -238,7 +238,7 @@
     "mmsi": "228135810",
     "latitude": "45.33213",
     "longitude": "-3.77185",
-    "lastPositionReceived": "9 hours ago",
+    "lastPositionReceived": "13 hours ago",
     "direction": "202.9°",
     "speed": "16.5 kn"
   },
@@ -247,7 +247,7 @@
     "mmsi": "227872570",
     "latitude": "46.23150",
     "longitude": "-2.55744",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "20 hours ago",
     "direction": "202.1°",
     "speed": "8.7 kn"
   },
@@ -256,43 +256,43 @@
     "mmsi": "228070900",
     "latitude": "46.16635",
     "longitude": "-2.61351",
-    "lastPositionReceived": "15 hours ago",
+    "lastPositionReceived": "19 hours ago",
     "direction": "178.6°",
     "speed": "10.5 kn"
   },
   {
     "name": "Yoann RICHOMME (Paprec Arkéa)",
     "mmsi": "228152910",
-    "latitude": "46.36267",
-    "longitude": "-2.49507",
-    "lastPositionReceived": "17 hours ago",
-    "direction": "203.3°",
-    "speed": "10.7 kn"
+    "latitude": "44.06495",
+    "longitude": "-6.96461",
+    "lastPositionReceived": "4 min ago",
+    "direction": "205°",
+    "speed": "24.9 kn"
   },
   {
     "name": "Alan ROURA (Hublot)",
     "mmsi": "228104430",
-    "latitude": "45.32010",
-    "longitude": "-4.07066",
-    "lastPositionReceived": "6 hours ago",
-    "direction": "271.5°",
-    "speed": "14.5 kn"
+    "latitude": "44.49780",
+    "longitude": "-6.27939",
+    "lastPositionReceived": "1 hour ago",
+    "direction": "290°",
+    "speed": "15.7 kn"
   },
   {
     "name": "Thomas RUYANT (VULNERABLE)",
     "mmsi": "228163690",
-    "latitude": "45.19236",
-    "longitude": "-3.82082",
-    "lastPositionReceived": "8 hours ago",
-    "direction": "197.1°",
-    "speed": "19.8 kn"
+    "latitude": "43.83067",
+    "longitude": "-7.03120",
+    "lastPositionReceived": "4 min ago",
+    "direction": "301°",
+    "speed": "19.9 kn"
   },
   {
     "name": "Damien SEGUIN (Groupe APICIL)",
     "mmsi": "228059900",
     "latitude": "45.37369",
     "longitude": "-4.48965",
-    "lastPositionReceived": "5 hours ago",
+    "lastPositionReceived": "8 hours ago",
     "direction": "253.4°",
     "speed": "18.3 kn"
   },
@@ -301,34 +301,34 @@
     "mmsi": "227944390",
     "latitude": "45.61643",
     "longitude": "-2.76623",
-    "lastPositionReceived": "12 hours ago",
+    "lastPositionReceived": "15 hours ago",
     "direction": "260.5°",
     "speed": "9.4 kn"
   },
   {
     "name": "Sébastien SIMON (Groupe Dubreuil)",
     "mmsi": "228195420",
-    "latitude": "45.73239",
-    "longitude": "-3.74499",
-    "lastPositionReceived": "11 hours ago",
-    "direction": "291.1°",
-    "speed": "15.0 kn"
+    "latitude": "43.90053",
+    "longitude": "-7.61756",
+    "lastPositionReceived": "1 min ago",
+    "direction": "294°",
+    "speed": "24.4 kn"
   },
   {
     "name": "Maxime SOREL (V and B - Monbana – Mayenne)",
     "mmsi": "228118330",
-    "latitude": "46.20492",
-    "longitude": "-2.57388",
-    "lastPositionReceived": "15 hours ago",
-    "direction": "177.9°",
-    "speed": "12.3 kn"
+    "latitude": "44.13217",
+    "longitude": "-6.76653",
+    "lastPositionReceived": "2 min ago",
+    "direction": "198°",
+    "speed": "14.3 kn"
   },
   {
     "name": "Guirec SOUDÉE (Freelance.com)",
     "mmsi": "227952290",
     "latitude": "46.25327",
     "longitude": "-2.60817",
-    "lastPositionReceived": "16 hours ago",
+    "lastPositionReceived": "19 hours ago",
     "direction": "211.3°",
     "speed": "11.2 kn"
   },
@@ -337,7 +337,7 @@
     "mmsi": "205862130",
     "latitude": "45.60470",
     "longitude": "-2.89704",
-    "lastPositionReceived": "11 hours ago",
+    "lastPositionReceived": "15 hours ago",
     "direction": "231°",
     "speed": "5.4 kn"
   },
@@ -346,7 +346,7 @@
     "mmsi": "243042829",
     "latitude": "45.35885",
     "longitude": "-4.10351",
-    "lastPositionReceived": "6 hours ago",
+    "lastPositionReceived": "9 hours ago",
     "direction": "245.6°",
     "speed": "11.2 kn"
   },
@@ -355,7 +355,7 @@
     "mmsi": "228277800",
     "latitude": "45.14729",
     "longitude": "-3.67869",
-    "lastPositionReceived": "6 hours ago",
+    "lastPositionReceived": "10 hours ago",
     "direction": "263.6°",
     "speed": "13.7 kn"
   }
