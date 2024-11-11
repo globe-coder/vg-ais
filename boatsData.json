@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Fabrice AMEDEO (Nexans - Wewise)",
+    "mmsi": "228161080",
+    "latitude": "46.28421",
+    "longitude": "-2.65848",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Romain ATTANASIO (Fortinet - Best Western)",
+    "mmsi": "227396550",
+    "latitude": "45.59338",
+    "longitude": "-3.58689",
+    "lastPositionReceived": "9 hours ago"
+  },
+  {
+    "name": "Eric BELLION (STAND AS ONE)",
+    "mmsi": "228165920",
+    "latitude": "45.70054",
+    "longitude": "-3.02256",
+    "lastPositionReceived": "11 hours ago"
+  },
+  {
+    "name": "Yannick BESTAVEN (Maître CoQ V)",
+    "mmsi": "228135630",
+    "latitude": "44.98552",
+    "longitude": "-4.54578",
+    "lastPositionReceived": "5 hours ago"
+  },
+  {
+    "name": "Jérémie BEYOU (Charal)",
+    "mmsi": "228120110",
+    "latitude": "44.91419",
+    "longitude": "-4.01538",
+    "lastPositionReceived": "6 hours ago"
+  },
+  {
+    "name": "Arnaud BOISSIÈRES (La Mie Câline)",
+    "mmsi": "228351700",
+    "latitude": "46.14406",
+    "longitude": "-2.59463",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Louis BURTON (Bureau Vallée)",
+    "mmsi": "227970220",
+    "latitude": "45.43447",
+    "longitude": "-2.86082",
+    "lastPositionReceived": "10 hours ago"
+  },
+  {
+    "name": "Conrad COLMAN (MS Amlin)",
+    "mmsi": "228279600",
+    "latitude": "45.35146",
+    "longitude": "-3.88045",
+    "lastPositionReceived": "7 hours ago"
+  },
+  {
+    "name": "Antoine CORNIC (Human Immobilier)",
+    "mmsi": "227977350",
+    "latitude": "45.71716",
+    "longitude": "-3.68094",
+    "lastPositionReceived": "7 hours ago"
+  },
+  {
+    "name": "Manuel COUSIN (Coup de Pouce)",
+    "mmsi": "228264900",
+    "latitude": "45.66272",
+    "longitude": "-2.71803",
+    "lastPositionReceived": "11 hours ago"
+  },
+  {
+    "name": "Clarisse CRÉMER (L’Occitane en Provence)",
+    "mmsi": "256003485",
+    "latitude": "44.96814",
+    "longitude": "-4.51761",
+    "lastPositionReceived": "4 hours ago"
+  },
+  {
+    "name": "Charlie DALIN (MACIF Santé Prévoyance)",
+    "mmsi": "228177430",
+    "latitude": "45.39090",
+    "longitude": "-3.92680",
+    "lastPositionReceived": "8 hours ago"
+  },
+  {
+    "name": "Samantha DAVIES (Initiatives-Cœur)",
+    "mmsi": "228115260",
+    "latitude": "46.08906",
+    "longitude": "-2.72371",
+    "lastPositionReceived": "13 hours ago"
+  },
+  {
+    "name": "Violette DORANGE (DeVenir)",
+    "mmsi": "228269600",
+    "latitude": "45.37098",
+    "longitude": "-3.69004",
+    "lastPositionReceived": "8 hours ago"
+  },
+  {
+    "name": "Louis DUC (Fives Group - Lantana Environnement)",
+    "mmsi": "228254800",
+    "latitude": "45.33926",
+    "longitude": "-3.88362",
+    "lastPositionReceived": "7 hours ago"
+  },
+  {
+    "name": "Benjamin DUTREUX (GUYOT environnement – Water Family)",
+    "mmsi": "228101590",
+    "latitude": "45.27428",
+    "longitude": "-3.36073",
+    "lastPositionReceived": "7 hours ago"
+  },
+  {
+    "name": "Benjamin FERRÉ (Monnoyeur - Duo for a Job)",
+    "mmsi": "228014600",
+    "latitude": "45.42435",
+    "longitude": "-3.77398",
+    "lastPositionReceived": "8 hours ago"
+  },
+  {
+    "name": "Sam GOODCHILD (VULNERABLE)",
+    "mmsi": "227957240",
+    "latitude": "44.92693",
+    "longitude": "-4.14017",
+    "lastPositionReceived": "6 hours ago"
+  },
+  {
+    "name": "Pip HARE (Medallia)",
+    "mmsi": "232037434",
+    "latitude": "46.26634",
+    "longitude": "-2.57150",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Oliver HEER (Oliver Heer Ocean Racing)",
+    "mmsi": "228275600",
+    "latitude": "45.55610",
+    "longitude": "-2.94254",
+    "lastPositionReceived": "11 hours ago"
+  },
+  {
+    "name": "Boris HERRMANN (Malizia - Seaexplorer)",
+    "mmsi": "228131430",
+    "latitude": "45.25956",
+    "longitude": "-3.96584",
+    "lastPositionReceived": "5 hours ago"
+  },
+  {
+    "name": "Isabelle JOSCHKE (MACSF)",
+    "mmsi": "228278600",
+    "latitude": "46.23955",
+    "longitude": "-2.38794",
+    "lastPositionReceived": "16 hours ago"
+  },
+  {
+    "name": "Jean LE CAM (Tout commence en Finistère - Armor-lux)",
+    "mmsi": "228194260",
+    "latitude": "45.02307",
+    "longitude": "-3.97827",
+    "lastPositionReceived": "6 hours ago"
+  },
+  {
+    "name": "Tanguy LE TURQUAIS (Lazare)",
+    "mmsi": "228295700",
+    "latitude": "46.23811",
+    "longitude": "-2.43945",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Nicolas LUNVEN (Holcim - PRB)",
+    "mmsi": "228125560",
+    "latitude": "45.27847",
+    "longitude": "-3.76601",
+    "lastPositionReceived": "7 hours ago"
+  },
+  {
+    "name": "Sébastien MARSSET (Foussier)",
+    "mmsi": "228016900",
+    "latitude": "46.35537",
+    "longitude": "-2.76159",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Paul MEILHAT (Biotherm)",
+    "mmsi": "228135810",
+    "latitude": "45.33213",
+    "longitude": "-3.77185",
+    "lastPositionReceived": "8 hours ago"
+  },
+  {
+    "name": "Justine METTRAUX (TeamWork - Team SNEF)",
+    "mmsi": "227872570",
+    "latitude": "46.23150",
+    "longitude": "-2.55744",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Giancarlo PEDOTE (Prysmian)",
+    "mmsi": "228070900",
+    "latitude": "46.16635",
+    "longitude": "-2.61351",
+    "lastPositionReceived": "14 hours ago"
+  },
+  {
+    "name": "Yoann RICHOMME (Paprec Arkéa)",
+    "mmsi": "228152910",
+    "latitude": "46.36267",
+    "longitude": "-2.49507",
+    "lastPositionReceived": "16 hours ago"
+  },
+  {
+    "name": "Alan ROURA (Hublot)",
+    "mmsi": "228104430",
+    "latitude": "45.32010",
+    "longitude": "-4.07066",
+    "lastPositionReceived": "5 hours ago"
+  },
+  {
+    "name": "Thomas RUYANT (VULNERABLE)",
+    "mmsi": "228163690",
+    "latitude": "45.19236",
+    "longitude": "-3.82082",
+    "lastPositionReceived": "7 hours ago"
+  },
+  {
+    "name": "Damien SEGUIN (Groupe APICIL)",
+    "mmsi": "228059900",
+    "latitude": "45.37369",
+    "longitude": "-4.48965",
+    "lastPositionReceived": "4 hours ago"
+  },
+  {
+    "name": "Kojiro SHIRAISHI (DMG MORI Global One)",
+    "mmsi": "227944390",
+    "latitude": "45.61643",
+    "longitude": "-2.76623",
+    "lastPositionReceived": "11 hours ago"
+  },
+  {
+    "name": "Sébastien SIMON (Groupe Dubreuil)",
+    "mmsi": "228195420",
+    "latitude": "45.73239",
+    "longitude": "-3.74499",
+    "lastPositionReceived": "10 hours ago"
+  },
+  {
+    "name": "Maxime SOREL (V and B - Monbana – Mayenne)",
+    "mmsi": "228118330",
+    "latitude": "46.20492",
+    "longitude": "-2.57388",
+    "lastPositionReceived": "14 hours ago"
+  },
+  {
+    "name": "Guirec SOUDÉE (Freelance.com)",
+    "mmsi": "227952290",
+    "latitude": "46.25327",
+    "longitude": "-2.60817",
+    "lastPositionReceived": "15 hours ago"
+  },
+  {
+    "name": "Denis VAN WEYNBERGH (D’Ieteren Group)",
+    "mmsi": "205862130",
+    "latitude": "45.60470",
+    "longitude": "-2.89704",
+    "lastPositionReceived": "10 hours ago"
+  },
+  {
+    "name": "Szabolcs WEÖRES (New Europe)",
+    "mmsi": "243042829",
+    "latitude": "45.35885",
+    "longitude": "-4.10351",
+    "lastPositionReceived": "5 hours ago"
+  },
+  {
+    "name": "Jingkun XU (Singchain Team Haikou)",
+    "mmsi": "228277800",
+    "latitude": "45.14729",
+    "longitude": "-3.67869",
+    "lastPositionReceived": "5 hours ago"
+  }
+]
